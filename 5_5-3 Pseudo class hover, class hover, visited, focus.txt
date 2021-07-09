@@ -1,0 +1,28 @@
+Hover>css>h1>h1:hover
+
+import>.middle-person:focus>color
+
+a:visited>color
+
+
+..........................................................
+5_5-4 First child, nth child, pseudo element before after
+'''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+li:first-child> coler
+
+li:last-child>color
+
+li:nth-child(2n)>color
+
+pseudo element
+     h3::before {
+            content: 'Hello';
+        }
+
+        h3::after {
+            content: 'Gelo';
+       .spacial::after{ color
+
+5_5-5 Position static relative absolute fixed sticky z-index
+

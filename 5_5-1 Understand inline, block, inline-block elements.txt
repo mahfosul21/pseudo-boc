@@ -1,0 +1,26 @@
+Block elemment
+==============
+div,p
+Block>Inline>css>display>inline
+In line elemment
+#Block Hieght,Width,top bottom css posible.
+
+
+Inline
+================
+a,span
+Inline>block>css>display>Block
+
+#inline Hieght,Width css not posible
+if do display inlie block right css.margin>inlie block
+
+#inlene>margine>Right,Laft posible,top+bottom not posible
+
+
+Emmet adrivia
+=================
+div*3>h1{Room-$}+p{Staying some one}
+
+For Line copy
+=============
+Alt+shift+Down ero
